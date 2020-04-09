@@ -1,5 +1,5 @@
 # GWU Bootcamp ETL_Project
-*By: Sayed Zewari, Haris Nawzadi, Sania Ahmad* 
+*By: Sania Ahmad, Sayed Zewari, Haris Nawzadi* 
 
 ### Title: : Economic Factors Contributing to Cardiovascular Disease-Related Death
 For our ETL project, we were tasked to Extract, Transform, and Load data of our choice. We chose to look at 
