@@ -6,4 +6,9 @@ For our ETL project, we were tasked to Extract, Transform, and Load data of our 
 
 Take a look at our jupyter notebook file to see our data! 
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+https://github.com/saniaahmad9/ETL_Project/blob/master/ETL/ETL%20Project%20.ipynb
+
 ![Image of ETL](https://www.astera.com/wp-content/uploads/2019/07/ETL-e1563879776366.jpg)
