@@ -9,6 +9,5 @@ Take a look at our jupyter notebook file to see our data!
 
 [HERE](https://github.com/saniaahmad9/ETL_Project/blob/master/ETL/ETL%20Project%20.ipynb)
 
-https://github.com/saniaahmad9/ETL_Project/blob/master/ETL/ETL%20Project%20.ipynb
 
 ![Image of ETL](https://www.astera.com/wp-content/uploads/2019/07/ETL-e1563879776366.jpg)
