@@ -1,2 +1,4 @@
 # ETL_Project
-ETL Group Project 
+*Project completed by: Sania Ahmad, Haris Nawzadi, Sayed Zewari 
+
+
