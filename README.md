@@ -6,8 +6,8 @@ For our ETL project, we were tasked to Extract, Transform, and Load data of our 
 
 Take a look at our jupyter notebook file to see our data! 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+
+[HERE](https://github.com/saniaahmad9/ETL_Project/blob/master/ETL/ETL%20Project%20.ipynb)
 
 https://github.com/saniaahmad9/ETL_Project/blob/master/ETL/ETL%20Project%20.ipynb
 
